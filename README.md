@@ -7,6 +7,7 @@ A Simple News App built with Kotlin &amp; Compose.
 - [ ] Add information messages
 - [ ] Make text clear on image
 - [ ] Search bar
+- [ ] Add unit test
 
 ## Built With 🛠
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development
