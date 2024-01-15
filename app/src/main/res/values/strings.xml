@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">newswave</string>
+
+    <string name="logo_description">News Wave Logo</string>
+
+    <!-- News screen-->
+    <string name="news_screen_title">News</string>
+    <string name="news_loading">Loading…</string>
+    <string name="news_all_loaded">All news have been loaded</string>
+    <string name="no_news_found">No news found</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
