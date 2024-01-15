@@ -25,6 +25,6 @@ A Simple News App built with Kotlin &amp; Compose.
 - [Retrofit](https://square.github.io/retrofit/) - A type-safe HTTP client for Android and Java
 
 ## Screenshots
-<img src="./screenshots/" width="40%">
-<img src="./screenshots/" width="40%">
+<img src="./screenshots/Screenshot_20240115_204051.png" width="40%">
+<img src="./screenshots/Screenshot_20240115_204122.png" width="40%">
 
